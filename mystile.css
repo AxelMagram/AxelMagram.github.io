@@ -1,0 +1,54 @@
+
+
+
+body {
+   background: royalblue;
+    
+}
+
+
+ #ubicación {
+   float: left;
+   background-color: dodgerblue;
+   border: 8px solid  black;
+   margin: 30px ;
+   text-shadow: 2px 2px tomato;
+   
+}
+
+ #datoscontact {
+   float: left;
+   background-color: dodgerblue;
+   border: 8px solid black;
+   margin: 30px;
+   text-shadow: 2px 2px tomato;
+}
+
+ #datosp { 
+   top: auto;
+   padding: 3px;
+   float: left;
+   background-color: dodgerblue;
+   border: 8px solid black;
+   margin: 30px;
+   text-shadow: 2px 2px tomato;
+}
+
+ #headess {
+   text-align-last: center;
+ }
+
+#a1 {text-align: center;
+
+
+}
+
+#165 {
+   border-style: dotted;
+   border-width: 15px;
+   border-color: black;
+   text-shadow: 2px 2px violet;
+   float: left;
+}
+
+
